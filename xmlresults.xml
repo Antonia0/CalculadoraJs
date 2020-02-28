@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="8.302">
+ <testsuite name="Demo calculator tests" timestamp="2020-02-28T14:13:08" hostname="localhost" time="8.302" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Demo calculator tests" name="addition test" time="8.302" />
+ </testsuite>
+</testsuites>
